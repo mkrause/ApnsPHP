@@ -1,5 +1,5 @@
 {
-    "name": "mkrause/ApnsPHP"
+    "name": "mkrause/ApnsPHP",
     "autoload": {
         "psr-0": { "": "./" }
     }
